@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Keep going&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=등반중&fontSize=70)
 <div align=center>
   
   ## 🌹 t e c h 🌹
