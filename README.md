@@ -28,6 +28,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=SELENIUM&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/django-092E20?style=for-the-square&logo=django&logoColor=white">
 
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktjs7252)
