@@ -25,7 +25,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=SELENIUM&logoColor=white">
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-square&logo=django&logoColor=white">
 
